@@ -5,12 +5,13 @@
 **Work-in:**
 
 1. Python
+2. Statistics introduction
 
 ---------
 
 **Work-out:**
 
-2. Python exercises
+3. Python exercises
 
 ---------
 
