@@ -7,5 +7,9 @@ def mean_visualization():
     """Draw the mean in a plot"""
     return None
 
+def show_list_of_elements(lista):
+    # TODO 
+    pass
+
 x = mean_visualization()
 print(x)

@@ -1,3 +1,6 @@
+import pandas as pd
+import numpy as np
+
 def open_file(path_file):
     """
     DOCS # TODO
@@ -7,3 +10,4 @@ def open_file(path_file):
     """
     # TODO (@gabvaztor) This function must open a file and write something.
     pass
+
