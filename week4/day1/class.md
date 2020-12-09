@@ -47,6 +47,10 @@
 
 - clara.piniella@thebridgeschool.es
 
+*Tutorials*: https://calendly.com/clapiniella/tutorias
+
 **Teacher Assistant**: *Diomedes Barbero Martinez*
 
 - diomedes@thebridgeschool.es
+
+*Tutorials*: https://calendly.com/diomedes
