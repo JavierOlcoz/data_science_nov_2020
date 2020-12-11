@@ -33,13 +33,13 @@
 
 - gabriel@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/gabrielvazqueztb/15-min-gabriel-tutorials
+*Tutorials*: https://calendly.com/gabrielvazqueztb
 
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/clapiniella/tutorias
+*Tutorials*: https://calendly.com/clapiniella
 
 **Teacher Assistant**: *Diomedes Barbero Martinez*
 
