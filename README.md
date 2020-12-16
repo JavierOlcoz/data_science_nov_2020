@@ -1,6 +1,5 @@
 # Bootcamp - Data Science - November 2020 - The Bridge
 
-esto es un comentario
 ---------
 
 ### **Foldername**: data_science_nov_2020
@@ -25,12 +24,15 @@ esto es un comentario
 
 - gabriel@thebridgeschool.es
 
+*Tutorials*: https://calendly.com/gabrielvazqueztb
+
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
 
-**Teacher Assistant**: *Diomedes Barbero Martínez*
+*Tutorials*: https://calendly.com/clapiniella
+
+**Teacher Assistant**: *Diomedes Barbero Martinez*
 
 - diomedes@thebridgeschool.es
-
 
