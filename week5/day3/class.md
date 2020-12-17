@@ -4,23 +4,15 @@
 
 **Work-in:**
 
-1. python name | file | main
-
-
-** Individual project ** 
-
-Añadir API | CSV | JSON a la búsqueda
-Google Datasets: https://datasetsearch.research.google.com/
-Kaggle: https://www.kaggle.com/datasets
-Statista: https://es.statista.com/
+1. *Individual project*  /others/projects/
 
 ---------
 
 **Work-out:**
 
-3. pandas/matplotlib/seaborn/plotly lectures
-4. pandas exercises
-5. other tasks
+2. pandas/matplotlib/seaborn/plotly lectures
+3. pandas exercises
+4. individual project
 
 *NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
@@ -46,7 +38,7 @@ Statista: https://es.statista.com/
 
 *Tutorials*: https://calendly.com/clapiniella
 
-**Teacher Assistant**: *Diomedes Barbero Martínez*
+**Teacher Assistant**: *Diomedes Barbero Martinez*
 
 - diomedes@thebridgeschool.es
 
