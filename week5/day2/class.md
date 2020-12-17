@@ -6,7 +6,13 @@
 
 1. python name | file | main
 
+
 ** Individual project ** 
+
+Añadir API | CSV | JSON a la búsqueda
+Google Datasets: https://datasetsearch.research.google.com/
+Kaggle: https://www.kaggle.com/datasets
+
 ---------
 
 **Work-out:**
